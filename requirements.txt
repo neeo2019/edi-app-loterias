@@ -1,5 +1,6 @@
-pandas
-numpy
-scipy
-fpdf2
-openpyxl
+
+streamlit>=1.30.0
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+fpdf2>=2.7.5
